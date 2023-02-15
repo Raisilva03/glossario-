@@ -1,4 +1,4 @@
-# Glossario
+# Glossário
 
 - A
 
@@ -8,22 +8,34 @@
 
 - D
 
-**Destreza**:"facilidade e ligeireza de movimentos, esp. das mãos."
+**Destreza**:"Facilidade e ligeireza de movimentos, esp. das mãos."
 
 **Diáfano**:"Que permite a passagem da luz; transparente, límpido."
 
 - E
 
-**Extremidade**:"parte extrema (de um objeto, considerado longitudinalmente); ponta."
+**Extremidade**:"Parte extrema (de um objeto, considerado longitudinalmente); ponta."
 
 - F
 
-**Fluído**:"que corre ou se expande como líquido."
+**Fluído**:"Que corre ou se expande como líquido."
 
-**Fumegante**:"que fumega, solta fumo; fumante (adj.), fumeante, fumoso."
+**Fumegante**:"Que fumega, solta fumo; fumante (adj.), fumeante, fumoso."
 
 - H
 
-**Hermeticamente**:"completamente fechado, totalmente fechado, inteiramente fechado, plenamente fechado, perfeitamente fechado, absolutamente fechado."
+**Hermeticamente**:"Completamente fechado, totalmente fechado, inteiramente fechado, plenamente fechado, perfeitamente fechado, absolutamente fechado."
 
 - M 
+
+**Matraquear**:"Insistentemente repetido."
+
+**Medonho**:"Que provoca extrema reação de medo, horror, repulsa; atroz, execrável, revoltante."
+
+**Multivac**:"é um supercomputador ficcional que apareceu em várias histórias de ficção científica do escritor americano Isaac Asimov."
+
+-P
+
+**Pendia**:"Estar pendurado ou suspenso."
+
+**Pêndulo**:"Que é pendente, tendo o ápice voltado para baixo."
