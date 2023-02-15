@@ -34,6 +34,10 @@
 
 **Multivac**:"é um supercomputador ficcional que apareceu em várias histórias de ficção científica do escritor americano Isaac Asimov."
 
+-N
+
+**Nitidez**:"Qualidade do que é nítido."
+
 -P
 
 **Pendia**:"Estar pendurado ou suspenso."
