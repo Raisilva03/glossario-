@@ -43,3 +43,17 @@
 **Pendia**:"Estar pendurado ou suspenso."
 
 **Pêndulo**:"Que é pendente, tendo o ápice voltado para baixo."
+
+**Piedade**:"Compaixão pelo sofrimento alheio."
+
+**Precipitado**:"Apressado, imprudente, irrefletido."
+
+**Procedia**:"Progredia, prosseguia, avançava, continuava, seguia."
+
+**Prudência**:"Calma, ponderação, sensatez, paciência ao tratar de assunto delicado ou difícil."
+
+-V
+
+**Veemência**:"Força impetuosa que se manifesta nos sentimentos ou na sua expressão; ardor, intensidade."
+
+**Verbosidade**:"Qualidade do que é verboso, que fala muito ou usa palavras em excesso para expressar-se."
